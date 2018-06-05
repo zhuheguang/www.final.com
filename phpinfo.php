@@ -1,6 +1,6 @@
 <?php
 
 phpinfo();
-echo "zhuheguang";
+echo "luyajing";
 
 ?>
